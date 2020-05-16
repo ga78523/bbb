@@ -1,0 +1,32 @@
+.container{
+max-width:780px;
+background-color: white;
+}
+
+body{
+  background-image: url(img/background.png);
+}
+
+video {
+width:750px;
+}
+
+#fondBleu{
+background-color:#00aae3;
+text-align: center;
+height:40px;
+padding=15px; 
+}
+
+a{
+color:white;
+text-align: center;
+font-size:1.5em;
+}
+
+
+h1 {
+    color:rgb(59, 173, 240);
+    text-align: center;
+    font-size: 3em; 
+  }
